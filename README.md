@@ -1,16 +1,6 @@
 # login_ui
 
-A new Flutter project.
+Login page UI with simple animation.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![login ui - Made with Clipchamp](https://user-images.githubusercontent.com/123383795/221875817-0c2e7626-5d73-438d-aaf3-b45849a7e042.gif)
